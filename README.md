@@ -2,9 +2,11 @@
 
 Component to plot geographical points on a map based on a single/list of records.
 
-## Setup
+## Configuration
 
-Drag component on page layout and set required paramters.
+Drag component on page layout and set required parameters.
+
+**Please Note:** For multiple record mapping only Zoom Level is required.
 
 * Latitude
   * Type: Double
