@@ -1,6 +1,6 @@
 # Interactive Map 
 
-Component to plot geographical points on a map based on a single/list of records.
+Salesforce Component to plot geographical points on a map based on a single/list of records.
 
 ## Configuration
 
